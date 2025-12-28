@@ -24,3 +24,6 @@ A Java Swing-based application that visualizes classic algorithms with step-by-s
 ## Learning Goals
 This project was built by me to improve algorithmic reasoning, explainability, and understanding of time and space complexity. Not only does it help in visualising it works as a cheat sheet for me while revising
 the concepts.
+
+## Future scope
+Will add more algorithms later and make it an ultimate visualizing cheat sheet guide of algorithms 
